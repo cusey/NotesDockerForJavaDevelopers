@@ -30,8 +30,3 @@ CONTAINER ID        IMAGE               COMMAND                  CREATED        
 3976fa3d9284        mongo               "docker-entrypoint.s…"   50 seconds ago      Up 44 seconds       27017/tcp, 0.0.0.0:27017->2717/tcp   elastic_booth
 ```
 
-<img 
-src="./one.PNG" 
-alt="Login Component File Structures" 
-height="300px"/>  
-
