@@ -19,6 +19,7 @@ mongo               latest              4a3b93a299a7        4 days ago          
 ```
 
 ## Start container
+Note "-p" is setting the container port 27017 to local machine port 27017
 ```
 $ docker run -p 27017:2717 -d mongo
 ```
